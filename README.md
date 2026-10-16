@@ -1,6 +1,12 @@
 # VidQuery-AI
 VidQuery AI is an AI application that assists in understanding YouTube videos by means of natural language conversations. The application achieves this by combining Retrieval-Augmented Generation (RAG) with the processing of transcripts and the use of large language models (LLMs), enabling to ask questions about the content of the videos, create summaries and investigate the information without having to watch the video.
 
+<img width="1470" height="830" alt="Screenshot 2026-10-16 at 7 10 47 PM" src="https://github.com/user-attachments/assets/ce386a3f-5546-4b5c-a840-a34ca8b54d48" />
+<img width="1470" height="833" alt="Screenshot 2026-10-16 at 7 11 59 PM" src="https://github.com/user-attachments/assets/eb363577-7032-4d58-8203-c31582e96318" />
+<img width="1470" height="833" alt="Screenshot 2026-10-16 at 7 38 09 PM" src="https://github.com/user-attachments/assets/b9be76b3-32f4-4b8c-b61f-e269379e0ec3" />
+<img width="1470" height="829" alt="Screenshot 2026-10-16 at 7 38 25 PM" src="https://github.com/user-attachments/assets/3929e7b4-e66c-461e-ac2a-33368efab09c" />
+
+
 ## Features
 
 - **Video Question Answering:** With VidQuery AI you can ask questions and get answers which are aware of the context, using the video transcript.
